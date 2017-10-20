@@ -1060,10 +1060,10 @@ var map = new mapboxgl.Map({
     container: "map",
     hash: true,
     style: style_object,
-    zoom: 11,
-    pitch: 60,
+    zoom: 15,
+    pitch: 40,
     bearing: 62.4,
-    center: [ 4.8, 52.4]
+    center: [ -75.1782, 39.9662]
 });
 
 // Add zoom and rotation controls to the map.
